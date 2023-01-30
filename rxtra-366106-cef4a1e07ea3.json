@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rxtra-366106",
+  "private_key_id": "cef4a1e07ea36f9cfc72131a74419d0374099564",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDd2gEUjvvXf8n3\npAkJMw1yr5pqBxu5GlLxIsSF1huPdZiaafYND2NlnwrytgVt2jTXqArlMXFVwaY+\nIrv0VoeYTN5BTAD8T7mKB/18U13qe7mSnakfV889Eh2po2bnmEMKKwwvDP8FKO60\nV3R8huGMEHWRhTXWSxX9FqIwqIReg37i8BGsqmwrIL/3WOsaAonWLPVBJ4UAsNVh\nqqM39aLJ8baeALMkcSI31tx1iy3eKNFCguJJvLYNN7Me0mImGUCzxqrW35oKjY1M\nJhP5pzu5ZDWCjcwT1ydJbML7derZc3ivYwAIduYw/S5rjafCFFPcPKKJQLBKxU8c\naUUvmDpLAgMBAAECggEACavcSjIlhnJ6soIDJtSD7JD9MUwYCEy+euaiHJeF4g4l\nVe3ynQUjtyVky8nlmLFfhls8BlvObgegIKtQ+EjhZmFLexs+G8G5++t3QHk96d/0\n6hBXdBdW4Hmus1t9O/FmUsYnpNFzOJ1dMp1xZZBXusxo46wj+bCSR9M5xNdD1f7e\nvOk4rAYMvqsJP52L5xsltHzF+2cGkJ9wPpTYgRRAqs0lK05p4WMnMNPNcA795Y6W\nXGJwM04+GB4OBMkQYbNyVRgEim34QCqlGeS+KGb6KRkq7VvUrrtHeR+774IVqvQS\nHTSRZk9GnS6d2KDSnfuGCOuJx283l6fHqrZ85buhsQKBgQDvF35WpC64A7E94P2c\n3laUwAz1OSNg5LMI1o6uOcwCcYXrOsy7s4jaHn9hSxIPRBsYMbK0FqwFiRb/wIua\nnfR0IzlQ+paYVJKNjO8yZ4BJHXiNz6qWBIpTdkllXUD8h2pKIjBhFY/vHUNDDzRf\nhXevxBrUa44tsM2JW0nbmtyXAwKBgQDtimUiPEyun7RU9Tir/ZJB//Mn47nFsp3B\nQF75NgILPRvHw0vfzaUdt8NXVilgJKDcX1MhOtIzCaAENLFN3reRd4VosdtFFMqW\nrqbK41Ja/dQtKYup9SOXTjxzGfLgbahQN9VJ1eZBUXFtQ+qZQbTsGLU7Qbf5P8ra\nDOoLB0opGQKBgQCR4WDJloWW61HSspurghGL0x5U5VcLwJ7obplB/qvWddPDMe5H\nPITsqR0JjRdozyJFAdXKgebVvc6Vn7LOVUAZOIC5Qxxtt3Rv/6TWuUYR1nR++k1Y\nGU8ZG5wux9Zl/m3A69le8xwORmmK2hUXj0T2ro28PB/VCwJto5CN+JBNZwKBgQCi\nIeA9qeK9Hgy8IFR6MC1wFv8kru7R3cSHbyRj/VUPzrnzc32KWJbm3dLa/dhn4xhY\n0kevWrK2W095D24ltGqfQ3EvsJX1ZOeSSctWmCpSKQZ1fPHzI3sTfzcLaR65yJ8l\ngbZ3GyR6WNiOt9icmpievY6Vz5l+6ufORRpKRMN9oQKBgHIxDwaJapl4rGts783d\n4/EF8kJ1LhqOOwC8a7HmrzKzevLYmW4sx7vOpXmSsFAE+dXwD+bHXagzYxXCkHZJ\nI/VGkf2U3LEndFh6k+VJ0mbv/Qx7l9daf++jZYec2lQbxWtbaWOOCHjGkCiK8v/I\nGOoMW3lhSrYIt4uTonnHNh2p\n-----END PRIVATE KEY-----\n",
+  "client_email": "rxtra-495@rxtra-366106.iam.gserviceaccount.com",
+  "client_id": "101090565515597910320",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rxtra-495%40rxtra-366106.iam.gserviceaccount.com"
+}
